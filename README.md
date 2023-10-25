@@ -1,8 +1,8 @@
-# build_a_chat_application_with_firebase
+# Chat App with Firebase
 
 This is a chat application built with firebase serverless components like Realtime database, authentication 
 
-# how to run?
+# How to Run?
 
 You can clone this repo, drag and drop the firebase_chat.html file into your browser window to exercise the app
 
