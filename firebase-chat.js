@@ -2,14 +2,12 @@
   // TODO: replace this with your own firebase config object after creating app in your firebase console
   // Your web app's Firebase configuration
   var firebaseConfig = {
-		apiKey: "AIzaSyCydFx0KC8P6xaE4-fiW_h8wu2SybwGRgQ",
-		authDomain: "courso-de580.firebaseapp.com",
-		databaseURL: "https://courso-de580-default-rtdb.firebaseio.com",
-		projectId: "courso-de580",
-		storageBucket: "courso-de580.appspot.com",
-		messagingSenderId: "679317668640",
-		appId: "1:679317668640:web:dbbd06f39b724fe45c8d45",
-		//measurementId: "G-PWBBC8GN6B"
+    apiKey: 'AIzaSyBkKiHuQKzxaojiI6YWp2DFvPFDMAU2wJ0',
+    authDomain: 'fir-chat-6e6f7.firebaseapp.com',
+    projectId: 'fir-chat-6e6f7',
+    storageBucket: 'fir-chat-6e6f7.appspot.com',
+    messagingSenderId: '118595217119',
+    appId: '1:118595217119:web:cd0f04e2ed218df2aeab6a',
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
